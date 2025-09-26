@@ -68,11 +68,6 @@ const Index = () => {
       icon: 'Package',
       title: 'Предметная визуализация',
       description: 'Создание фотореалистичных изображений мебели, декора и товаров'
-    },
-    {
-      icon: 'Palette',
-      title: 'Подбор материалов',
-      description: 'Визуализация различных вариантов отделки и мебели'
     }
   ];
 
@@ -218,7 +213,7 @@ const Index = () => {
             </p>
           </div>
           
-          <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
+          <div className="grid grid-cols-1 md:grid-cols-2 gap-8 max-w-4xl mx-auto">
             {services.map((service, index) => (
               <Card key={index} className="text-center hover-scale animate-fade-in" style={{ animationDelay: `${index * 0.1}s` }}>
                 <CardContent className="p-8">
