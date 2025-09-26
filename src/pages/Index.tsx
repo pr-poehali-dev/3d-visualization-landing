@@ -238,8 +238,8 @@ const Index = () => {
                 Обо мне
               </h2>
               <p className="text-lg text-muted-foreground mb-6">
-                Меня зовут Александр, и я специализируюсь на создании фотореалистичных 
-                3D визуализаций интерьеров. С более чем 7-летним опытом в области 
+                Меня зовут Кристина, и я специализируюсь на создании фотореалистичных 
+                3D визуализаций интерьеров. С 2-летним опытом в области 
                 архитектурной визуализации, я помогаю дизайнерам, архитекторам и 
                 частным клиентам воплощать их идеи в жизнь.
               </p>
@@ -251,11 +251,11 @@ const Index = () => {
               <div className="flex flex-wrap gap-4">
                 <div className="flex items-center space-x-2">
                   <Icon name="Award" className="w-5 h-5 text-accent" />
-                  <span className="text-sm font-medium">7+ лет опыта</span>
+                  <span className="text-sm font-medium">2 года опыта</span>
                 </div>
                 <div className="flex items-center space-x-2">
                   <Icon name="Users" className="w-5 h-5 text-accent" />
-                  <span className="text-sm font-medium">200+ проектов</span>
+                  <span className="text-sm font-medium">50+ проектов</span>
                 </div>
                 <div className="flex items-center space-x-2">
                   <Icon name="Clock" className="w-5 h-5 text-accent" />
