@@ -65,9 +65,9 @@ const Index = () => {
       description: 'Создание фотореалистичных 3D изображений интерьеров квартир любой планировки'
     },
     {
-      icon: 'Building',
-      title: 'Визуализация домов',
-      description: 'Детальная проработка интерьеров загородных домов и коттеджей'
+      icon: 'Package',
+      title: 'Предметная визуализация',
+      description: 'Создание фотореалистичных изображений мебели, декора и товаров'
     },
     {
       icon: 'Palette',
@@ -145,7 +145,7 @@ const Index = () => {
               в <span className="text-accent">фотореальность</span>
             </h1>
             <p className="text-xl md:text-2xl text-muted-foreground mb-8 max-w-3xl mx-auto">
-              Создаю высококачественные 3D визуализации интерьеров квартир и домов, 
+              Создаю высококачественные 3D визуализации интерьеров и предметов, 
               которые помогают увидеть будущий дизайн до начала ремонта
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center">
