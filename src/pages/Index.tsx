@@ -102,7 +102,7 @@ const Index = () => {
       }`}>
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="flex items-center justify-between h-16">
-            <div className="text-2xl font-bold text-primary" style={{ fontFamily: 'Lora', fontWeight: '600', letterSpacing: '0.05em' }}>
+            <div className="text-2xl font-bold text-primary" style={{ fontFamily: 'Oswald', fontWeight: '500', letterSpacing: '0.05em' }}>
               Кристина Калугина
               <span className="block text-sm font-normal opacity-80 mt-1">3D визуализатор</span>
             </div>
